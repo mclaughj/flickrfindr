@@ -102,8 +102,7 @@
 				D8C707DB27F3D49B0036C294 /* photo-detail.json */,
 				D8C707DD27F3D49B0036C294 /* search-response.json */,
 			);
-			name = FlickrFindrTests;
-			path = ../FlickrFindr/FlickrFindrTests;
+			path = FlickrFindrTests;
 			sourceTree = "<group>";
 		};
 		D8C707E527F3E3710036C294 /* View Controllers */ = {

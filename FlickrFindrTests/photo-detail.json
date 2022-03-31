@@ -1,0 +1,128 @@
+{
+  "photo": {
+    "id": "51957499633",
+    "secret": "6cbdfb0d53",
+    "server": "65535",
+    "farm": 66,
+    "dateuploaded": "1648084865",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "9f1cc777dc",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "194512258@N07",
+      "username": "jpegsrock",
+      "realname": "Bill Anastas",
+      "location": "",
+      "iconserver": "65535",
+      "iconfarm": 66,
+      "path_alias": "banastas"
+    },
+    "title": {
+      "_content": "Boston Red Sox vs. Toronto Blue Jays"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1648084865",
+      "taken": "2009-05-19 14:58:48",
+      "takengranularity": 0,
+      "takenunknown": "0",
+      "lastupdate": "1648084875"
+    },
+    "views": "11",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "194490928-51957499633-13204429",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "Canon EOS 5D Mark II",
+          "_content": "canoneos5dmarkii",
+          "machine_tag": 0
+        },
+        {
+          "id": "194490928-51957499633-109276",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "SmugMug",
+          "_content": "smugmug",
+          "machine_tag": 0
+        },
+        {
+          "id": "194490928-51957499633-70539",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "Ello",
+          "_content": "ello",
+          "machine_tag": 0
+        },
+        {
+          "id": "194490928-51957499633-1280",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "Digital",
+          "_content": "digital",
+          "machine_tag": 0
+        },
+        {
+          "id": "194490928-51957499633-1014",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "Boston",
+          "_content": "boston",
+          "machine_tag": 0
+        },
+        {
+          "id": "194490928-51957499633-1731",
+          "author": "194512258@N07",
+          "authorname": "jpegsrock",
+          "raw": "MA",
+          "_content": "ma",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https:\/\/www.flickr.com\/photos\/banastas\/51957499633\/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}
